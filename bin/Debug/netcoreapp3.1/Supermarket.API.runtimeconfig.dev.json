@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/wasim/.dotnet/store/|arch|/|tfm|",
+      "/Users/wasim/.nuget/packages"
+    ]
+  }
+}
