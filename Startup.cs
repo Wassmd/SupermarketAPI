@@ -9,6 +9,7 @@ using Supermarket.API.Domain.Services;
 using Supermarket.API.Persistence.Contexts;
 using Supermarket.API.Persistence.Repositories;
 using Supermarket.API.Services;
+using AutoMapper;
 
 namespace Supermarket.API
 {
@@ -31,8 +32,11 @@ namespace Supermarket.API
 
             services.AddScoped<ICategoryRepository, CategoryRepository>();
             services.AddScoped<ICategoryService, CategoryService>();
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
 
             services.AddMvc(option => option.EnableEndpointRouting = false);
+
+            services.AddAutoMapper(typeof(Startup));
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)

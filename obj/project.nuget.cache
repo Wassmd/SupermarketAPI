@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "d+hb2UzjoZccVhLkm5vtQPgHhNpvIXvCUv+C/sN3VPIn1QzNk9UYbFgm3kXbL208RVPljQZd6mz4qyN3Ms86mw==",
+  "dgSpecHash": "bl6H5FMzOVEa6nIOahjM3t1pEUKIYeSpZsHoNkdo0ryLCxgxEv8K1UK7+TCD4Et6TfZdHrboOv8CGaon15euTA==",
   "success": true,
   "projectFilePath": "/Users/wasim/Personal/dotnet/src/Supermarket.API/Supermarket.API.csproj",
   "expectedPackageFiles": [
+    "/Users/wasim/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
+    "/Users/wasim/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.0/automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
     "/Users/wasim/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/Users/wasim/.nuget/packages/microsoft.bcl.hashcode/1.1.0/microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
+    "/Users/wasim/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/wasim/.nuget/packages/microsoft.entityframeworkcore/3.1.9/microsoft.entityframeworkcore.3.1.9.nupkg.sha512",
     "/Users/wasim/.nuget/packages/microsoft.entityframeworkcore.abstractions/3.1.9/microsoft.entityframeworkcore.abstractions.3.1.9.nupkg.sha512",
     "/Users/wasim/.nuget/packages/microsoft.entityframeworkcore.analyzers/3.1.9/microsoft.entityframeworkcore.analyzers.3.1.9.nupkg.sha512",
@@ -24,7 +27,8 @@
     "/Users/wasim/.nuget/packages/microsoft.extensions.primitives/3.1.9/microsoft.extensions.primitives.3.1.9.nupkg.sha512",
     "/Users/wasim/.nuget/packages/system.collections.immutable/1.7.1/system.collections.immutable.1.7.1.nupkg.sha512",
     "/Users/wasim/.nuget/packages/system.componentmodel.annotations/4.7.0/system.componentmodel.annotations.4.7.0.nupkg.sha512",
-    "/Users/wasim/.nuget/packages/system.diagnostics.diagnosticsource/4.7.1/system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+    "/Users/wasim/.nuget/packages/system.diagnostics.diagnosticsource/4.7.1/system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "/Users/wasim/.nuget/packages/system.reflection.emit/4.7.0/system.reflection.emit.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }
